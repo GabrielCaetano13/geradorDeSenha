@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+    font-weight: normal;
+}
+
+*:after, *:before, * {
+    box-sizing: inherit;
+}
+
+ol, ul {
+    list-style: none;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
